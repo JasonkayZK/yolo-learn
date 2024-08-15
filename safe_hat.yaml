@@ -1,0 +1,8 @@
+train: /Users/zk/workspace/yolo-learn/dataset/train/images
+val: /Users/zk/workspace/yolo-learn/dataset/valid/images
+test: /Users/zk/workspace/yolo-learn/dataset/test/images
+
+nc: 10
+
+names: [ Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone,
+         Safety Vest, machinery, vehicle ]
